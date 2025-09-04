@@ -71,9 +71,4 @@ We welcome all contributions!
 5. Push to your fork (`git push origin feature/YourFeature`)
 6. Create a Pull Request
 
----
-
-## 📬 Contact
-
-For questions, open an issue or connect via [LinkedIn](https://www.linkedin.com/in/narlakanti-hariharan).
 
